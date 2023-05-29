@@ -1,39 +1,8 @@
-<img src="resources/new_logo.gif">
-<br><br>
-<h1>Update</h1>
-<h2>(June, 2022) Fixed Version made by :
 
-[Sqble](https://github.com/Sqble/Telegram-To-Discord-Bot-Fixed)
-</h2>
-
-
-
-* JOIN Support & FAQ Discord 👉 <a href="https://discord.gg/UcxcyxS5X8"><img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" width="18" height="18"></img></a>
-
-```
-As always, I took bits from an open source repo and rebranded it into a useful bot with detailed instructions.
-Please star my repo if this contribution helped you ! Its FREEE !
-
-Please Join Support & FAQ Discord if you have questions.
-
-```
 # Telegram to Discord Message Bot — Forward Telegram Messages to Discord 
-
-<img src="https://img.shields.io/badge/Status-works%20after%20lot%20of%20debugging-red"> <img src="https://img.shields.io/badge/Python%20Skill-intermediate%20-brightgreen"> 
-
-* This repo will soon be archived and won't be supported. 
-* Advanced python users post your debug queries here : <a href="https://discord.gg/wkznBbgBFD"><img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" width="25" height="25"></img></a>
-
 
 ## Description
 Forwardgram is a free and open source, telegram to discord message bot. It enables one to forward messages from Multiple Telegram channels to one (or more) Telegram/Discord channels of your own. This python bot monitors multiple telegram channels. When a new message/entity is sent, it will parse the response and forward it to a discord channel using your own personalized bot. It will also forward the same message to your own Telegram channel.
-
-
-## Getting Started
-
-1. Create a [github](https://github.com/login?return_to=%2Fkkapuria3) account. It always helps !
-2. Star this repository. Its FREE !
-3. Please follow me here if you like my contribution: [<img src="https://p.kindpng.com/picc/s/726-7262336_deadpool-logo-pixel-art-hd-png-download.png" width="25"/>](https://github.com/kkapuria3)
 
 ### Dependencies
 
